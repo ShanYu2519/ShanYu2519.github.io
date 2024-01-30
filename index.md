@@ -92,28 +92,23 @@ Hematopoietic stem cell
 
 ( †: equally contribution; \*: corresponding author )
 
-1. Xinjie Bao†, Gengchao Wang†, **Shan Yu†**, Jian Sun, Liu He, Hualu Zhao, Yanni Ma, Fang Wang, Xiaoshuang Wang, Renzhi Wang\*, Jia Yu\*. Transcriptomic analysis identifies a tumor subtype mRNA classifier for invasive non-functioning pituitary neuroendocrine tumor diagnostics. ***Theranostics***. 2021 Jan 1;11(1):132-146. 
+1. Xinjie Bao†, Gengchao Wang†, **Shan Yu†**, Jian Sun, Liu He, Hualu Zhao, Yanni Ma, Fang Wang, Xiaoshuang Wang, Renzhi Wang\*, Jia Yu\*. Transcriptomic analysis identifies a tumor subtype mRNA classifier for invasive non-functioning pituitary neuroendocrine tumor diagnostics. ***Theranostics***. 2021 Jan 1;11(1):132-146.[Full-text](https://www.thno.org/v11p0132.htm)
 
-2.	Pengzhong Su, Jiahuan He, **Shan Yu**, Xiaoshuang Wang, Jia Yu\*. Expression and function of Met-tRNAiMet carrier proteins in acute myeloid leukemia. ***Basic & Clinical Medicine***. 2021; 41(4): 501-507.
-   
-4.	Shan Yu, et.al. Identification of CDK6 and RHOU in Serum Exosome as Biomarkers for the Invasiveness of Non-functioning Pituitary Adenoma. Chin Med Sci J. 2019 Sep 30;34(3):168-176.
-   
-6.	Zhengyi Zhan, …, Shan Yu, et al., microRNA arm-imbalance in part from complementary targets mediated decay promotes gastric cancer progression. Nat Commun, 2019; 10(1): p. 4397.
-   
-8.	Xiaoshuang Wang, Shan Yu, et.al. Function of RNA binding protein KSRP in type M5 acute myeloid leukemia cells. Basic & Clinical Medicine. 2018; 38(6): 821-826.
-   
-10.	Xiaoshuang Wang, Jinrong He, Shan Yu, et.al. Methyltransferase-like 3 Promotes the Proliferation of Acute Myeloid Leukemia Cells by Regulating N6-methyladenosine Levels of MYC. Acta Academiae Medicinae Sinicae. 2018; 40(6): 308-314.
+2.	Pengzhong Su, Jiahuan He, **Shan Yu**, Xiaoshuang Wang, Jia Yu\*. Expression and function of Met-tRNAiMet carrier proteins in acute myeloid leukemia. ***Basic & Clinical Medicine***. 2021; 41(4): 501-507.[Full-text](http://journal11.magtechjournal.com/Jwk_jcyxylc/EN/abstract/abstract13844.shtml)
+
+3.	**Shan Yu**, Xiao-Shuang Wang, Kai-Can Cao, Xin-Jie Bao, Jia Yu\*. Identification of CDK6 and RHOU in Serum Exosome as Biomarkers for the Invasiveness of Non-functioning Pituitary Adenoma. ***Chin Med Sci J***. 2019 Sep 30;34(3):168-176.[Full-text](http://cmsj.cams.cn/EN/10.24920/003585)
+
+4.	Zhengyi Zhang†, Jingnan Pi†, Dongling Zou†, Xiaoshuang Wang†, Jiayue Xu†, **Shan Yu**, Ting Zhang, Feng Li, Xianxie Zhang, Hualu Zhao, Fang Wang, Dong Wang\*, Yanni Ma\*, Jia Yu\*. microRNA arm-imbalance in part from complementary targets mediated decay promotes gastric cancer progression. ***Nat Commun***, 2019; 10(1): p. 4397.[Full-text](https://www.nature.com/articles/s41467-019-12292-5)
+
+5.	Xiaoshuang Wang, **Shan Yu**, Jinrong He, Jia Yu\*. Function of RNA binding protein KSRP in type M5 acute myeloid leukemia cells. ***Basic & Clinical Medicine***. 2018; 38(6): 821-826. [Full-text](http://journal11.magtechjournal.com/Jwk_jcyxylc/CN/Y2018/V38/I6/821)
+
+6. Xiaoshuang Wang, Jinrong He, **Shan Yu**, Jia Yu\*. Methyltransferase-like 3 Promotes the Proliferation of Acute Myeloid Leukemia Cells by Regulating N6-methyladenosine Levels of MYC. ***Acta Academiae Medicinae Sinicae***. 2018; 40(6): 308-314.[Full-text](http://journal13.magtechjournal.com/yxkxy/CN/10.3881/j.issn.1000-503X.2018.03.002)
     
-12.	Hongmei Zhao, …, Shan Yu, et al. KSRP specifies monocytic and granulocytic differentiation through regulating miR-129 biogenesis and RUNX1 expression. Nat Commun, 2017; 8(1): p. 1428.
-
+7. Hongmei Zhao, Xiaoshuang Wang, Ping Yi, Yanmin Si, Puwen Tan, Jinrong He, **Shan Yu**, Yue Ren, Yanni Ma, Junwu Zhang, Dong Wang\*, Fang Wang\*, Jia Yu\*. KSRP specifies monocytic and granulocytic differentiation through regulating miR-129 biogenesis and *RUNX1* expression. ***Nat Commun***. 2017 Nov 10;8(1):1428. [Full-text](https://www.nature.com/articles/s41467-017-01425-3)
 
 
 ### 7. Other materials:
-GitHub: [https://github.com/hmutpw](https://github.com/hmutpw)
-
-ResearchGate: [https://www.researchgate.net/profile/Puwen-Tan](https://www.researchgate.net/profile/Puwen-Tan)
-
-Google Scholar: [Puwen Tan](https://scholar.google.co.uk/citations?hl=en&pli=1&user=WnzYYR4AAAAJ)
+GitHub: [https://github.com/ShanYu2519](https://github.com/ShanYu2519)
 
 Academic transcripts: [English version](./transcript_English.jpg)    [中文成绩单](./transcript_Chinese.jpg)
 
