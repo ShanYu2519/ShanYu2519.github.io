@@ -1,10 +1,10 @@
 # Shan Yu, Ph.D.
 
-![Puwen Tan](./Puwen Tan.png)
+![Shan Yu](./Shan Yu.png)
 
-## Puwen Tan
+## Shan Yu
 
-Ph.D. in bioinformatics, Southern Medical University, Guangzhou, Guangdong, China, 510515
+329 Jinpeng Street, Sandun Town, Xihu District, Hangzhou, Zhejiang, China, 310030
 
 Email: yushan2519@163.com
 
@@ -12,15 +12,15 @@ Tel: (+86) 156 1158 2166
 
 ### 1. Summary:
 
-**Puwen Tan** is a highly motivated bioinformatician with a strong interest in developing methods to uncover the cell identity and characterize the cell state transition from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization**, and **R package development**. For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatic methods. Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
+**Shan Yu** is a highly motivated bioinformatician with a strong interest in developing methods to uncover the cell identity and characterize the cell state transition from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization**, and **R package development**. For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatic methods. Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
 
 ### 2. Education:
 
-2019 - 2022, Ph.D. in bioinformatics, Southern Medical University, China
+2019 - 2022, Ph.D. in Biochemistry and Molecular Biology, Peking Union Medical College, Beijing, China
 
-2016 - 2019, Master of Biomedical Engineering (bioinformatics), Harbin Medical University, China
+2016 - 2019, Master in Biochemistry and Molecular Biology, Peking Union Medical College, Beijing, China
 
-2011 - 2016, Bachelor of Biotechnology (biomedical software engineering), Harbin Medical University, China
+2012 - 2016, Bachelor of Biological Sciences, Hainan University, Haikou, China
 
 ### 3. Skills:
 
@@ -91,41 +91,22 @@ Hematopoietic stem cell
 ### 6. Full list of Publications:
 
 ( †: equally contribution; \*: corresponding author )
-#### 2024
-1. Fanqi Zhou†, **Puwen Tan†**, Siqi Liu, Le Chang, Jiabin Yang, Mengyao Sun, Yuehong Guo, Yanmin Si, Dong Wang\*, Jia Yu\*, Yanni Ma\*. Subcellular RNA distribution and its change during human embryonic stem cell differentiation. ***Stem Cell Reports***. 2024 Jan 9;19(1):126-140.[Full-text](https://doi.org/10.1016/j.stemcr.2023.11.007).
 
-#### 2023
-2. Tianyuan Liu†, Bohao Zou†, Manman He†, Yongfei Hu, Yiying Dou, Tianyu Cui, **Puwen Tan**, Shaobin Li, Shuan Rao, Yan Huang, Sixi Liu\*, Kaican Cai\*, Dong Wang\*. LncReader: identification of dual functional long noncoding RNAs using a multi-head self-attention mechanism. ***Brief Bioinform***. 2023 Jan 19;24(1):bbac579.[Full-text](https://doi.org/10.1093/bib/bbac579).
+1. Xinjie Bao†, Gengchao Wang†, **Shan Yu†**, Jian Sun, Liu He, Hualu Zhao, Yanni Ma, Fang Wang, Xiaoshuang Wang, Renzhi Wang\*, Jia Yu\*. Transcriptomic analysis identifies a tumor subtype mRNA classifier for invasive non-functioning pituitary neuroendocrine tumor diagnostics. ***Theranostics***. 2021 Jan 1;11(1):132-146. 
 
-#### 2022
-3. Fang Wang†, **Puwen Tan†**, Pengcheng Zhang†, Yue Ren†, Jie Zhou, Yunqiao Li, Siyuan Hou, Shuaili Li, Linlin Zhang, Yanni Ma, Chaojie Wang, Wanbo Tang, Xiaoshuang Wang, Yue Huo, Yongfei Hu, Tianyu Cui, Chao Niu, Dong Wang\*, Bing Liu\*, Yu Lan\*, Jia Yu\*. Single-cell architecture and functional requirement of alternative splicing during hematopoietic stem cell formation. ***Sci Adv***. 2022 Jan 7;8(1):eabg5369. [Full-text](https://www.science.org/doi/10.1126/sciadv.abg5369)
+2.	Pengzhong Su, Jiahuan He, **Shan Yu**, Xiaoshuang Wang, Jia Yu\*. Expression and function of Met-tRNAiMet carrier proteins in acute myeloid leukemia. ***Basic & Clinical Medicine***. 2021; 41(4): 501-507.
+   
+4.	Shan Yu, et.al. Identification of CDK6 and RHOU in Serum Exosome as Biomarkers for the Invasiveness of Non-functioning Pituitary Adenoma. Chin Med Sci J. 2019 Sep 30;34(3):168-176.
+   
+6.	Zhengyi Zhan, …, Shan Yu, et al., microRNA arm-imbalance in part from complementary targets mediated decay promotes gastric cancer progression. Nat Commun, 2019; 10(1): p. 4397.
+   
+8.	Xiaoshuang Wang, Shan Yu, et.al. Function of RNA binding protein KSRP in type M5 acute myeloid leukemia cells. Basic & Clinical Medicine. 2018; 38(6): 821-826.
+   
+10.	Xiaoshuang Wang, Jinrong He, Shan Yu, et.al. Methyltransferase-like 3 Promotes the Proliferation of Acute Myeloid Leukemia Cells by Regulating N6-methyladenosine Levels of MYC. Acta Academiae Medicinae Sinicae. 2018; 40(6): 308-314.
+    
+12.	Hongmei Zhao, …, Shan Yu, et al. KSRP specifies monocytic and granulocytic differentiation through regulating miR-129 biogenesis and RUNX1 expression. Nat Commun, 2017; 8(1): p. 1428.
 
-#### 2021
-4. Juanjuan Kang, Qiang Tang, Jun He, Le Li, Nianling Yang, Shuiyan Yu, Mengyao Wang, Yuchen Zhang, Jiahao Lin, Tianyu Cui, Yongfei Hu, **Puwen Tan**, Jun Cheng, Hailong Zheng, Dong Wang\*, Xi Su\*, Wei Chen\*, Yan Huang\*. RNAInter v4.0: RNA interactome repository with redefined confidence scoring system and improved accessibility. ***Nucleic Acids Res***. 2021 Oct 30;gkab997. [Full-text](https://doi.org/10.1093/nar/gkab997)
-5. Tianyu Cui†, Yiying Dou†, **Puwen Tan†**, Zhen Ni, Tianyuan Liu, DuoLin Wang, Yan Huang, Kaican Cai, Xiaoyang Zhao, Dong Xu\*, Hao Lin\*, Dong Wang\*. RNALocate v2.0: an updated resource for RNA subcellular localization with increased coverage and annotation. ***Nucleic Acids Res***. 2021 Sep 22;gkab825. [Full-text](https://doi.org/10.1093/nar/gkab825)
-6. Yang Zhang\*, Tianyuan Liu, Xuesong Hu, Mei Wang, Jing Wang, Bohao Zou, **Puwen Tan**, Tianyu Cui, Yiying Dou, Lin Ning, Yan Huang, Shuan Rao, Dong Wang\*, Xiaoyang Zhao\*. CellCall: integrating paired ligand-receptor and transcription factor activities for cell-cell communication. ***Nucleic Acids Res***. 2021 Sep 7;49(15):8520-8534. [Full-text](https://doi.org/10.1093/nar/gkab638)
-7. Jingyuan Tong, Ting Sun, Shihui Ma, Yanhong Zhao, Mankai Ju, Yuchen Gao, Ping Zhu, **Puwen Tan**, Rongfeng Fu, Anqi Zhang, Ding Wang, Di Wang, Zhijian Xiao, Jiaxi Zhou, Renchi Yang, Stephen J Loughran, Juan Li, Anthony R Green, Emery H Bresnick, Dong Wang\*, Tao Cheng\*, Lei Zhang\*, Lihong Shi\*. Hematopoietic stem cell heterogeneity is linked to the initiation and therapeutic response of myeloproliferative neoplasms. ***Cell Stem Cell***. 2021 Mar 4;28(3):502-513.e6. [Full-text](https://doi.org/10.1016/j.stem.2021.01.018)
-8. Xue Wang†, Changyun Ping†, **Puwen Tan†**, Chenguang Sun, Guang Liu, Tao Liu, Shuchun Yang, Yanmin Si, Lijun Zhao, Yongfei Hu, Yuyan Jia, Xiaoshuang Wang, Meili Zhang, Fang Wang, Dong Wang\*, Jia Yu\*, Yanni Ma\*, Yue Huang\*. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf*. ***EMBO J***. 2021 Feb 15;40(4):e104729. [Full-text](https://doi.org/10.15252/embj.2020104729)
 
-#### 2020
-9. Yunqing Lin, Tianyuan Liu, Tianyu Cui, Zhao Wang, Yuncong Zhang, **Puwen Tan**, Yan Huang, Jia Yu, Dong Wang\*. RNAInter in 2020: RNA interactome repository with increased coverage and annotation. ***Nucleic Acids Res***. 2020 Jan 8;48(D1):D189-D197. [Full-text](https://doi.org/10.1093/nar/gkz804)
-
-#### 2019
-10. **Puwen Tan†**, Yue Ren†, Yuncong Zhang†, Yunqing Lin, Tianyu Cui, Yan Huang, Yang Zhang, Lin Ning, Jia Yu, Shuai Gao, Dong Wang, He Huang\*. Dissecting dynamic expression of autophagy-related genes during human fetal digestive tract development via single-cell RNA sequencing. ***Autophagy***. 2019 Nov;15(11):2019-2021. [Full-text](https://doi.org/10.1080/15548627.2019.1656956)
-
-#### 2018
-11. Yan Huang†, **Puwen Tan†**, Xiaoshuang Wang, Ying Yi, Yongfei Hu\*, Dong Wang\*, Fang Wang\*. Transcriptomic insights into temporal expression pattern of autophagy genes during monocytic and granulocytic differentiation. ***Autophagy***. 2018;14(3):558-559. [Full-text](https://doi.org/10.1080/15548627.2018.1425060)
-12. Tianyu Cui, Lin Zhang, Yan Huang, Ying Yi, **Puwen Tan**, Yue Zhao, Yongfei Hu, Liyan Xu, Enmin Li, Dong Wang. MNDR v2. 0: an updated resource of ncRNA–disease associations in mammals. ***Nucleic Acids Res***. 2018 Jan 4;46(D1):D371-D374. [Full-text](https://doi.org/10.1093/nar/gkx1025)
-
-#### 2017
-13. Hongmei Zhao, Xiaoshuang Wang, Ping Yi, Yanmin Si, **Puwen Tan**, Jinrong He, Shan Yu, Yue Ren, Yanni Ma, Junwu Zhang, Dong Wang\*, Fang Wang\*, Jia Yu\*. KSRP specifies monocytic and granulocytic differentiation through regulating miR-129 biogenesis and *RUNX1* expression. ***Nat Commun***. 2017 Nov 10;8(1):1428. [Full-text](https://www.nature.com/articles/s41467-017-01425-3)
-14. Ying Yi, Yue Zhao, Chunhua Li, Lin Zhang, Huiying Huang, Yana Li, Lanlan Liu, Ping Hou, Tianyu Cui, **Puwen Tan**, Yongfei Hu, Ting Zhang, Yan Huang, Xiaobo Li\*, Jia Yu\*, Dong Wang\*. RAID v2.0: an updated resource of RNA-associated interactions across organisms. ***Nucleic Acids Res***. 2017 Jan 4;45(D1):D115-D118. [Full-text](https://doi.org/10.1093/nar/gkw1052)
-15. Ting Zhang†, **Puwen Tan†**, Liqiang Wang†, Nana Jin†, Yana Li, Lin Zhang, Huan Yang, Zhenyu Hu, Lining Zhang, Chunyu Hu, Chunhua Li, Kun Qian, Changjian Zhang, Yan Huang, Kongning Li\*, Hao Lin\*, Dong Wang\*. RNALocate: a resource for RNA subcellular localizations. ***Nucleic Acids Res***. 2017 Jan 4;45(D1):D135-D138. [Full-text](https://doi.org/10.1093/nar/gkw728)
-
-#### Before 2016
-16. Deng Wu, Yan Huang, Juanjuan Kang, Kongning Li, Xiaoman Bi, Ting Zhang, Nana Jin, Yongfei Hu, **Puwen Tan**, Lu Zhang, Ying Yi, Wenjun Shen, Jian Huang, Xiaobo Li, Xia Li, Jianzhen Xu, Dong Wang. ncRDeathDB: A comprehensive bioinformatics resource for deciphering network organization of the ncRNA-mediated cell death system. ***Autophagy***. 2015;11(10):1917-26. [Full-text](https://doi.org/10.1080/15548627.2015.1089375)
-17. Liqiang Wang, Kun Qian, Yan Huang, Nana Jin, Hongyan Lai, Ting Zhang, Chunhua Li, Chunrui Zhang, Xiaoman Bi, Deng Wu, Changliang Wang, Hao Wu, **Puwen Tan**, Jianping Lu, Liqun Chen, Kongning Li, Xia Li, Dong Wang. SynBioLGDB: a resource for experimentally validated logic gates in synthetic biology. ***Sci Rep***. 2015 Jan 28;5:8090. [Full-text](https://www.nature.com/articles/srep08090)
-18. Xiaomeng Zhang, Deng Wu, Liqun Chen, Xiang Li, Jinxurong Yang, Dandan Fan, Tingting Dong, Mingyue Liu, **Puwen Tan**, Jintian Xu, Ying Yi, Yuting Wang, Hua Zou, Yongfei Hu, Kaili Fan, Juanjuan Kang, Yan Huang, Zhengqiang Miao, Miaoman Bi, Nana Jin, Kongning Li, Xia Li, Jianzhen Xu, Dong Wang. RAID: a comprehensive resource for human RNA-associated (RNA–RNA/RNA–protein) interaction. ***RNA***. 2014 Jul;20(7):989-93. [Full-text](https://rnajournal.cshlp.org/content/20/7/989)
 
 ### 7. Other materials:
 GitHub: [https://github.com/hmutpw](https://github.com/hmutpw)
