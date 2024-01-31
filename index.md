@@ -32,10 +32,11 @@ Most recently, she has been looking for a postdoctoral position that focuses on 
 
 ### 3. Skills:
 
-1. Strong programming skills in using R language for statistical analysis, visualization, and software development.
-2. Proficient in high-throughput sequencing data (including bulk & single-cell RNA-seq, ChIP-seq, CLIP-seq, and single-cell Nanopore-seq) analysis.
-3. Extensive collaboration experiences with biologists.
-4. Fluent in English writing and speaking.
+1. Strong programming skills in using **R** for statistical analysis, visualization, and software development.
+2. Proficient in the **Linux** operating system, **Shell** programming, and familiar with **Python** and **Perl**.
+3. Expertise in multi-omic data analysis, including Transcriptomics (bulk & single-cell RNA-seq; Long-read sequencing), Metabolomics, Proteomics, and metagenomics.
+4. Qualified as the Clinical Laboratory Supervisor (Intermediate).
+5. Excellent interpersonal and communication skills with extensive team collaboration experience.
 
 ### 4. Academic experience:
 
