@@ -12,9 +12,11 @@ Tel: (+86) 156 1158 2166 (Wechat ID)
 
 **Shan Yu** is a highly motivated researcher with a background in both bioinformatics analysis and hands-on biological experiments. She is proficient in both dry and wet lab experiences, such as **multi-omics data analysis**, **data visualization**, and **R package development**. 
 
-For the past few years, her research mainly focused on exploring the post-transcriptional regulatory mechanism during hematopoiesis, including the alternative polyadenylation profilings of erythropoiesis and lymphoid hematopoiesis (***2023 J Mol Cell Biol***).
+For the past few years, her research mainly focused on exploring the post-transcriptional regulatory mechanism of hematopoiesis, including the alternative polyadenylation profilings of erythropoiesis and lymphoid hematopoiesis (***2023 J Mol Cell Biol***).
 
-Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
+Moreover, she handled several projects recently that focused on multi-omics data, including transcriptomics, proteomics, and metabolomics on various types of cancer samples.
+
+Most recently, she has been looking for a postdoctoral position that focused on exploring clinical questions by combining computational analysis with biological experiments.
 
 ### 2. EDUCATION:
 
