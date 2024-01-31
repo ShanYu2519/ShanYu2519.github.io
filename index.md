@@ -10,9 +10,9 @@ Tel: (+86) 156 1158 2166 (Wechat ID)
 
 ### 1. Summary:
 
-**Shan Yu** is a highly motivated researcher with background in both bioinformatics analysis and hands-on biological experiments. She is proficient in both dry and wet lab experiences, such as **multi-omics data analysis**, **data visualization**, and **R package development**. 
+**Shan Yu** is a highly motivated researcher with a background in both bioinformatics analysis and hands-on biological experiments. She is proficient in both dry and wet lab experiences, such as **multi-omics data analysis**, **data visualization**, and **R package development**. 
 
-For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatic methods. 
+For the past few years, her research mainly focused on exploring the post-transcriptional regulatory mechanism during hematopoiesis, including the alternative polyadenylation profilings of erythropoiesis and lymphoid hematopoiesis (***2023 J Mol Cell Biol***).
 
 Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
 
