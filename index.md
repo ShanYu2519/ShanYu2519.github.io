@@ -16,7 +16,7 @@ For the past few years, her research mainly focused on exploring the post-transc
 
 Moreover, she handled several projects recently that focused on multi-omics data, including transcriptomics, proteomics, and metabolomics on various types of cancer samples.
 
-Most recently, she has been looking for a postdoctoral position that focused on exploring clinical questions by combining computational analysis with biological experiments.
+Most recently, she has been looking for a postdoctoral position that focuses on exploring clinical questions by combining computational analysis with biological experiments.
 
 ### 2. EDUCATION:
 
