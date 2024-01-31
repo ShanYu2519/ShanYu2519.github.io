@@ -2,25 +2,31 @@
 
 ![Shan Yu](./Shan Yu.png)
 
-## Shan Yu
-
 329 Jinpeng Street, Sandun Town, Xihu District, Hangzhou, Zhejiang, China, 310030
 
-Email: yushan2519@163.com
+Email: yushan2519@163.com 
 
-Tel: (+86) 156 1158 2166
+Tel: (+86) 156 1158 2166 (Wechat ID)
 
 ### 1. Summary:
 
-**Shan Yu** is a highly motivated bioinformatician with a strong interest in developing methods to uncover the cell identity and characterize the cell state transition from multiple perspectives. He is proficient in a variety of skills including **single-cell RNA-seq analysis**, **data visualization**, and **R package development**. For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatic methods. Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
+**Shan Yu** is a highly motivated researcher with background in both bioinformatics analysis and hands-on biological experiments. She is proficient in both dry and wet lab experiences, such as **multi-omics data analysis**, **data visualization**, and **R package development**. 
 
-### 2. Education:
+For the past 5 years, he mainly focused on exploring the cellular heterogeneity of hematopoietic stem cells (2017 *Nat Commun*, 2018 *Autophagy*, 2021 *Cell Stem Cell*, and 2022 *Sci Adv*) using bioinformatic methods. 
+
+Most recently, he is looking for a postdoctoral position in computational biology which focuses on developing single-cell multi-omics analysis methods.
+
+### 2. EDUCATION:
 
 2019 - 2022, Ph.D. in Biochemistry and Molecular Biology, Peking Union Medical College, Beijing, China
 
 2016 - 2019, Master in Biochemistry and Molecular Biology, Peking Union Medical College, Beijing, China
 
 2012 - 2016, Bachelor of Biological Sciences, Hainan University, Haikou, China
+
+### 3. PROFESSIONAL EXPERIENCE:
+
+2022 - Now, Bioinformatics Engineer, Dian Diagnostics Group Co., Ltd. (Hangzhou D.A. Medical Laboratory Co., Ltd.), Hangzhou, China.
 
 ### 3. Skills:
 
