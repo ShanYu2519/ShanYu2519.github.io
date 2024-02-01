@@ -8,7 +8,7 @@ Email: yushan2519@163.com
 
 Tel: (+86) 156 1158 2166 (Wechat ID)
 
-### 1. Summary:
+### 1. SUMMARY:
 
 **Shan Yu** is a highly motivated researcher with a background in both bioinformatics analysis and hands-on biological experiments. She is proficient in both dry and wet lab experiences, such as **multi-omics data analysis**, **data visualization**, and **R package development**. 
 
@@ -30,7 +30,7 @@ Most recently, she has been looking for a postdoctoral position that focuses on 
 
 2022 - Now, Bioinformatics Engineer, Dian Diagnostics Group Co., Ltd. (Hangzhou D.A. Medical Laboratory Co., Ltd.), Hangzhou, China.
 
-### 3. Skills:
+### 3. SKILLS:
 
 1. Strong programming skills in using **R** for statistical analysis, visualization, and software development.
 2. Proficient in the **Linux** operating system, **Shell** programming, and familiar with **Python** and **Perl**.
@@ -38,66 +38,24 @@ Most recently, she has been looking for a postdoctoral position that focuses on 
 4. Qualified as the Clinical Laboratory Supervisor (Intermediate).
 5. Excellent interpersonal and communication skills with extensive team collaboration experience.
 
-### 4. Academic experience:
+### 4. RESEARCH EXPERIENCE:
 
-Here list of the main studies for the last 5 years:
+Here list of the projects in the last few years:
 
-#### I. A computational framework for transcription factor activity analysis (submitted to ***Nature Cell Biology***).
+#### I. Construction of alternative polyadenylation profiling during the human hematopoiesis at single-cell resolution
 
-This research developed an integrated computational framework for gene regulatory network inference and transcription factor activity estimation from single-cell RNA sequencing data. In brief, we utilized an entropy-based algorithm to infer the weighted regulatory relationship between regulators and targets by decomposing the unique information from multivariate information. This framework Embed several functions such as transcriptional factor activity quantification, dimensionality reduction, cell-type-specific regulon analysis, pathway enrichment analysis, and visualization. This work aims to establish a comprehensive single-cell analysis framework for transcription factors just like other commonly used single-cell pipelines such as Seurat.
-
-\* First author, mainly responsible for **study design**, **software development**, **bioinformatics analysis**, **visualization** and **manuscript writing**. Softwares from this project were deposited in GitHub: [https://github.com/hmutpw/scATFR](https://github.com/hmutpw/scATFR) and [https://github.com/hmutpw/PUIC](https://github.com/hmutpw/PUIC/).
-
-#### II. Constructing the RNA subcellular localization landscape of embryonic stem cells (2023 ***Stem Cell Reports***).
-
-This research comprehensively characterized the subcellular localization pattern of RNA molecules in embryonic stem cells. We identified several genes that showed distinct localization patterns among five different subcellular locations. Meanwhile, we explored the subcellular localization pattern of alternative splicing events between cytoplasm and nucleus and predicted several RNA binding proteins that potentially regulate the nuclear export.
-
-\* Co-first author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
-
-#### III. Single-cell sequencing reveals the critical role of alternative splicing in hematopoietic stem cell formation (2022 ***Sci Adv***)
-
-This research constructed an isoform-based transcriptional atlas of the murine endothelial-to-hematopoietic stem cell using single-cell full-length RNA sequencing data. In brief, we comprehensively described the isoform diversity and alternative splicing landscape during hematopoietic stem cell formation. Then, we also identified hundreds of stage-specific isoforms that potentially affect the hematopoietic stem cell formation and validated their expression using single-cell Nanopore sequencing of full-length transcripts. Subsequently, in vitro knockdown experiments showed that knockdown of some hemogenic-specific isoforms indeed affects the generation of  HSCs. Next, motif enrichment combined with knockout experiments confirmed that the RNA-binding protein (RBP), Srsf2, could affect the specialization of endothelial cells into hematopoietic stem cells by regulating the AS of key transcription factors such as Runx1 and Myb. 
-
-![SA Abstract](./SA_figure.png)
-
-\* Co-first author, mainly responsible for **study design**, **bioinformatics analysis**, **visualization**, and **manuscript writing**. The code was deposited in GitHub:[https://github.com/hmutpw/scAS/](https://github.com/hmutpw/scAS/).
-
-#### IV. *hnRNPLL* controls pluripotency exit of embryonic stem cells by modulating alternative splicing of *Tbx3* and *Bptf* (2021 ***EMBO J***)
-
-This research revealed that RNA binding protein *hnRNPLL* regulates the embryonic stem cell exit from pluripotency by modulating the alternative splicing of some key transcription factors that maintain the pluripotency.
+![APA abstract](./APA abstract.png)
 
 
-![EMBOJ Abstract](./EMBOJ_figure.png)
-
-\* Co-first author, mainly responsible for **bioinformatics analysis**, and **visualization**.
-
-#### V. Depicting the dynamic activity of autophagy at the transcriptome level during the human stem cell differentiation (2018 & 2019, ***Autophagy***)
-
-This research investigated the dynamic patterns of autophagy-related genes during human fetal digestive tract development using single-cell RNA sequencing data. Meanwhile, we also identified several autophagy-related genes that potentially regulate monocytic-granulocytic differentiation.
-
-![Autophagy Abstract](./Autophagy_figure.png)
-
-\* First author, mainly responsible for **bioinformatics analysis**, **visualization**, and **manuscript writing**.
-
-#### VI. Construction of the RNA subcellular localization resources. (2017 & 2021, ***Nucleic Acids Res***)
-
-These studies constructed and updated the RNA subcellular localization database for the transcriptome level.
-
-![NAR Abstract](./NAR_figure.png)
-
-\* Co-first author, mainly responsible for **data collecting** and **visualization**.
-
-### 5. Research Interests:
+### 5. RESEARCH INTEREST:
 
 Single-cell multi-omics
-
-Machine learning
 
 Software development
 
 Hematopoietic stem cell
 
-### 6. Full list of Publications:
+### 6. PUBLICATIONS:
 
 ( †: equally contribution; \*: corresponding author )
 
@@ -116,7 +74,7 @@ Hematopoietic stem cell
 7. Hongmei Zhao, Xiaoshuang Wang, Ping Yi, Yanmin Si, Puwen Tan, Jinrong He, **Shan Yu**, Yue Ren, Yanni Ma, Junwu Zhang, Dong Wang\*, Fang Wang\*, Jia Yu\*. KSRP specifies monocytic and granulocytic differentiation through regulating miR-129 biogenesis and *RUNX1* expression. ***Nat Commun***. 2017 Nov 10;8(1):1428. [Full-text](https://www.nature.com/articles/s41467-017-01425-3)
 
 
-### 7. Other materials:
+### 7. OTHERS:
 
 GitHub: [https://github.com/ShanYu2519](https://github.com/ShanYu2519)
 
