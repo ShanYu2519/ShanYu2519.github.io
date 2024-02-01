@@ -58,9 +58,9 @@ Here list of the projects in the last few years:
 
 Here I designed several easy-to-use online data analyses and visualization apps:
 
-1. An online application for bioinformatics data analysis (e.g., PCA and Clustering) and visualization (e.g., heatmap, volcano plot, and density ploy): [https://yushiny.shinyapps.io/DAV_v1/](https://yushiny.shinyapps.io/DAV_v1/)
+1. An online application for bioinformatics data analysis (e.g., PCA and Clustering) and visualization (e.g., heatmap, volcano plot, and density plot): [https://yushiny.shinyapps.io/DAV_v1/](https://yushiny.shinyapps.io/DAV_v1/)
 
-2. 
+2. An interactive boxplot visualization application: [https://yushiny.shinyapps.io/boxplot/](https://yushiny.shinyapps.io/boxplot/)
 
 
 ### 5. RESEARCH INTEREST:
